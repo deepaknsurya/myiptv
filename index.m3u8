@@ -1,2 +1,9 @@
 #EXTINF:-1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/zeekannada.png" group-title="Entertainment",Zee Kannada
-https://watchtvs.live/live.php?c=Zee_Kannada&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Zee_Kannada&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ColorsKannada.png" group-title="Entertainment",Zee Kannada
+https://watchtvs.live/live.php?c=Colors_Kannada_SD&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ColorsKannadaHD.png" group-title="Entertainment",Zee Kannada
+https://watchtvs.live/live.php?c=Colors_Kannada_HD&q=1200&e=.m3u8
+

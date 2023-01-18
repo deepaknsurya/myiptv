@@ -8,61 +8,115 @@ https://watchtvs.live/live.php?c=Colors_Kannada_SD&q=800&e=.m3u8
 https://watchtvs.live/live.php?c=Colors_Kannada_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/TV9Kannada.png" group-title="News",TV9 Kannada
-https://watchtvs.live/live.php?c=TV9_Karnataka&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=TV9_Karnataka&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/PublicTV.png" group-title="News",Public TV
-https://watchtvs.live/live.php?c=Public_TV&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Public_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/AsianetSuvarnaNews.png" group-title="News",Asianet Suvarna News
-https://watchtvs.live/live.php?c=Suvarna_News&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Suvarna_News&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/PublicMusic.png" group-title="Music",Public Music
-https://watchtvs.live/live.php?c=Public_Music&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Public_Music&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/SamaraNews.png" group-title="News",Samara News
-ttps://watchtvs.live/live.php?c=Samara_News&q=1200&e=.m3u8
+ttps://watchtvs.live/live.php?c=Samara_News&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/AyushTV.png" group-title="Lifestyle",Ayush TV
-https://watchtvs.live/live.php?c=Ayush_TV&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Ayush_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/SriSankara.png" group-title="Spiritual",Sri Sankara
-https://watchtvs.live/live.php?c=Sri_Sankara&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Sri_Sankara&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/BNews.png" group-title="News",B News
-https://watchtvs.live/live.php?c=BTV&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=BTV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ColorsSuper.png" group-title="Entertainment",Colors Super
-https://watchtvs.live/live.php?c=Colors_Super&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Colors_Super&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/DD9ChandanaKannada.png" group-title="Entertainment",DD9 Chandana Kannada
-https://watchtvs.live/live.php?c=DD9_chandana_kannada&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=DD9_chandana_kannada&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/Kasturi.png" group-title="Entertainment",Kasturi
-https://watchtvs.live/live.php?c=Kasturi&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Kasturi&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/DighvijayTV.png" group-title="News",Dighvijay TV
-https://watchtvs.live/live.php?c=Dighvijay_TV&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Dighvijay_TV&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ETVNewsKannada.png" group-title="News",ETV Kannada News
-https://watchtvs.live/live.php?c=ETV_Kannada_News&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=ETV_Kannada_News&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/TV5Kannada.png" group-title="News",TV5 Kannada
-https://watchtvs.live/live.php?c=TV_5_Kannada&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=TV_5_Kannada&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/RajMusixKannada.png" group-title="Music",Raj Musix Kannada
-https://watchtvs.live/live.php?c=Raj_Music_Kannada&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Raj_Music_Kannada&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/RajNewsKannada.png" group-title="News",Raj News Kannada
-https://watchtvs.live/live.php?c=Raj_News_Kannada&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Raj_News_Kannada&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/SiriKannada.png" group-title="Entertainment",Siri Kannada
-https://watchtvs.live/live.php?c=Sirikannada&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Sirikannada&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="21" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/NewsFirst.png" group-title="News",News First
-https://watchtvs.live/live.php?c=News_First&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=News_First&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/Nick.png" group-title="Kids",Nick Kannada
-https://watchtvs.live/live.php?c=Nick_Kannada&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Nick_Kannada&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="23" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/Sonic.png" group-title="Kids",Sonic Kannada
-https://watchtvs.live/live.php?c=Sonic_Kannada&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Sonic_Kannada&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-id="24" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ColorsKannadaCinema.png" group-title="Movies",Colors Kannada Cinema
+https://watchtvs.live/live.php?c=Colors_Kannada_Cinema&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-id="25" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/BhaktiTV.png" group-title="Spiritual",Bhakti TV
+https://watchtvs.live/live.php?c=Bhakti_TV&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/CN.png" group-title="Kids",Cartoon Network Telugu
+https://watchtvs.live/live.php?c=Cartoon_Network_Telugu&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/CNHD.png" group-title="Kids",CN HD Telugu
+https://watchtvs.live/live.php?c=CN_HD_Telugu&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/Discovery.png" group-title="Science",Discovery Channel Telugu
+https://watchtvs.live/live.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ETVCinema.png" group-title="Movies",ETV Cinema
+https://watchtvs.live/live.php?c=ETV_Cinema&q=800&e=.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ETV.png" group-title="Entertainment",ETV Telugu
+https://watchtvs.live/live.php?c=ETV_Telugu&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ETVHD.png" group-title="Entertainment",ETV HD
+https://watchtvs.live/live.php?c=ETV_HD&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/HistoryTV18.png" group-title="Science",History 18 Telugu
+https://watchtvs.live/live.php?c=History_18_Telugu&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/Nick.png" group-title="Kids",Nick Telugu
+https://watchtvs.live/live.php?c=Nick_Telugu&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/POGO.png" group-title="Kids",Pogo Telugu
+https://watchtvs.live/live.php?c=Pogo_Telugu&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="35" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/Sonic.png" group-title="Kids",Sonic Telugu
+https://watchtvs.live/live.php?c=Sonic_Telugu&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/SonyBBCEarth.png" group-title="Science",Sony BBC Earth HD Telugu
+https://watchtvs.live/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/SonyYAY.png" group-title="Kids",Sony Yay Telugu
+https://watchtvs.live/live.php?c=Sony_Yay_Telugu&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/TTD.png" group-title="Spiritual",Sri Venkateshwara Bhakti (TTD)
+https://watchtvs.live/live.php?c=Sri_Venkateshwar_Bhakti&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/StudioOne.png" group-title="Entertainment",Studio One
+https://watchtvs.live/live.php?c=Studio_One&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="40" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ZeeTelugu.png" group-title="Entertainment",Zee Telugu
+https://watchtvs.live/live.php?c=Zee_Telugu&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ZeeCinemalu.png" group-title="Movies",zee Cinemalu
+https://watchtvs.live/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8

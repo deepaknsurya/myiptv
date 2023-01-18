@@ -1,9 +1,68 @@
 #EXTINF:-1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/zeekannada.png" group-title="Entertainment",Zee Kannada
 https://watchtvs.live/live.php?c=Zee_Kannada&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ColorsKannada.png" group-title="Entertainment",Zee Kannada
+#EXTINF:-1 tvg-id="2" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ColorsKannada.png" group-title="Entertainment",Colors Kannada
 https://watchtvs.live/live.php?c=Colors_Kannada_SD&q=800&e=.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ColorsKannadaHD.png" group-title="Entertainment",Zee Kannada
+#EXTINF:-1 tvg-id="3" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ColorsKannadaHD.png" group-title="Entertainment",Colors Kannada HD
 https://watchtvs.live/live.php?c=Colors_Kannada_HD&q=800&e=.m3u8
 
+#EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/TV9Kannada.png" group-title="News",TV9 Kannada
+https://watchtvs.live/live.php?c=TV9_Karnataka&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/PublicTV.png" group-title="News",Public TV
+https://watchtvs.live/live.php?c=Public_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/AsianetSuvarnaNews.png" group-title="News",Asianet Suvarna News
+https://watchtvs.live/live.php?c=Suvarna_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/PublicMusic.png" group-title="Music",Public Music
+https://watchtvs.live/live.php?c=Public_Music&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/SamaraNews.png" group-title="News",Samara News
+ttps://watchtvs.live/live.php?c=Samara_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/AyushTV.png" group-title="Lifestyle",Ayush TV
+https://watchtvs.live/live.php?c=Ayush_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="10" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/SriSankara.png" group-title="Spiritual",Sri Sankara
+https://watchtvs.live/live.php?c=Sri_Sankara&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/BNews.png" group-title="News",B News
+https://watchtvs.live/live.php?c=BTV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ColorsSuper.png" group-title="Entertainment",Colors Super
+https://watchtvs.live/live.php?c=Colors_Super&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/DD9ChandanaKannada.png" group-title="Entertainment",DD9 Chandana Kannada
+https://watchtvs.live/live.php?c=DD9_chandana_kannada&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/Kasturi.png" group-title="Entertainment",Kasturi
+https://watchtvs.live/live.php?c=Kasturi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/DighvijayTV.png" group-title="News",Dighvijay TV
+https://watchtvs.live/live.php?c=Dighvijay_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ETVNewsKannada.png" group-title="News",ETV Kannada News
+https://watchtvs.live/live.php?c=ETV_Kannada_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/TV5Kannada.png" group-title="News",TV5 Kannada
+https://watchtvs.live/live.php?c=TV_5_Kannada&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/RajMusixKannada.png" group-title="Music",Raj Musix Kannada
+https://watchtvs.live/live.php?c=Raj_Music_Kannada&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/RajNewsKannada.png" group-title="News",Raj News Kannada
+https://watchtvs.live/live.php?c=Raj_News_Kannada&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/SiriKannada.png" group-title="Entertainment",Siri Kannada
+https://watchtvs.live/live.php?c=Sirikannada&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="21" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/NewsFirst.png" group-title="News",News First
+https://watchtvs.live/live.php?c=News_First&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/Nick.png" group-title="Kids",Nick Kannada
+https://watchtvs.live/live.php?c=Nick_Kannada&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/Sonic.png" group-title="Kids",Sonic Kannada
+https://watchtvs.live/live.php?c=Sonic_Kannada&q=1200&e=.m3u8

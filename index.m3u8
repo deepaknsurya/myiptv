@@ -86,37 +86,37 @@ https://watchtvs.live/live.php?c=Discovery_Channel_Telugu&q=800&e=.m3u8
 https://watchtvs.live/live.php?c=ETV_Cinema&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ETV.png" group-title="Entertainment",ETV Telugu
-https://watchtvs.live/live.php?c=ETV_Telugu&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=ETV_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="31" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ETVHD.png" group-title="Entertainment",ETV HD
-https://watchtvs.live/live.php?c=ETV_HD&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=ETV_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/HistoryTV18.png" group-title="Science",History 18 Telugu
-https://watchtvs.live/live.php?c=History_18_Telugu&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=History_18_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/Nick.png" group-title="Kids",Nick Telugu
-https://watchtvs.live/live.php?c=Nick_Telugu&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Nick_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="34" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/POGO.png" group-title="Kids",Pogo Telugu
-https://watchtvs.live/live.php?c=Pogo_Telugu&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Pogo_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/Sonic.png" group-title="Kids",Sonic Telugu
-https://watchtvs.live/live.php?c=Sonic_Telugu&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Sonic_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="36" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/SonyBBCEarth.png" group-title="Science",Sony BBC Earth HD Telugu
-https://watchtvs.live/live.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Sony_BBC_Earth_HD_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="37" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/SonyYAY.png" group-title="Kids",Sony Yay Telugu
-https://watchtvs.live/live.php?c=Sony_Yay_Telugu&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Sony_Yay_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="38" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/TTD.png" group-title="Spiritual",Sri Venkateshwara Bhakti (TTD)
-https://watchtvs.live/live.php?c=Sri_Venkateshwar_Bhakti&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Sri_Venkateshwar_Bhakti&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="39" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/StudioOne.png" group-title="Entertainment",Studio One
-https://watchtvs.live/live.php?c=Studio_One&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Studio_One&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ZeeTelugu.png" group-title="Entertainment",Zee Telugu
-https://watchtvs.live/live.php?c=Zee_Telugu&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Zee_Telugu&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-id="41" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/myiptv/main/img/ZeeCinemalu.png" group-title="Movies",zee Cinemalu
-https://watchtvs.live/live.php?c=Zee_Cinemalu&q=1200&e=.m3u8
+https://watchtvs.live/live.php?c=Zee_Cinemalu&q=800&e=.m3u8
